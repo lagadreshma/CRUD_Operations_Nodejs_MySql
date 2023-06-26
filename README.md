@@ -1,8 +1,10 @@
 # CRUD Operations using Nodejs, MySql and Postman
 
-Nodejs - Download Nodejs
+Nodejs - Download Nodejs  - https://nodejs.org/en
 MySql - install mysql as dependency in project -> npm install mysql
-Download Postman - Postman is an API platform for building and using APIs 
+Download Postman - Postman is an API platform for building and using APIs  - https://www.postman.com/
+
+
 
 # dependencies -
 > npm install express
